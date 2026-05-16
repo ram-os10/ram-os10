@@ -7,11 +7,11 @@ Construo ferramentas que resolvem problemas reais — do diagnóstico de circuit
 
 ## Projetos
 
-**[OficinaSync](https://github.com/jorgerodrigues/oficinasync)**
+**[OficinaSync](https://github.com/ram-os10/oficinasync)**
 Sistema web de gestão para oficinas mecânicas — ordens de serviço, controle de estoque e emissão de PDF.
 `Python` `FastAPI` `React` `MySQL` `ReportLab`
 
-**[Memória Sobral](https://github.com/jorgerodrigues/memoria-sobral)**
+**[Memória Sobral](https://github.com/ram-os10/memoria-sobral)**
 Arquivo digital de documentos históricos do município de Sobral/CE via pipeline de OCR.
 `Python` `OpenCV` `Tesseract` `SQLite` `HTML/CSS`
 
